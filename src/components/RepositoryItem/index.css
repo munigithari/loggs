@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 250px;
+}
+.image2 {
+  height: 20px;
+  width: 20px;
+}
+.image1 {
+  height: 80px;
+  width: 190px;
+}
+.heading {
+  color: #e73959;
+  font-size: 20px;
+  font-family: 'roboto';
+  align-self: center;
+  margin-top: 30px;
+}
+.paragraph {
+  font-size: 14px;
+  font-family: 'roboto';
+  align-self: center;
+}
